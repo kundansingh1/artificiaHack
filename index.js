@@ -7,6 +7,7 @@ var constants = require('./constants.js');
 var express = require('express');        // call express
 var app = express();                 // define our app using express
 var bodyParser = require('body-parser');
+var request = require('request');
 
 var api_key = constants.api_key;
 client.artifacia(api_key);
@@ -18,6 +19,45 @@ var port = process.env.PORT || 4040;        // set our port
 
 
 var router = express.Router();
+
+router.get('/', function(req, res) {
+    res.json({ message: 'hooray! welcome to our api!' });   
+});
+
+router.get('/fileSearch', function(req, res) {
+    
+		var baseUrl = 'http://54.201.188.218:5070/v1/search';
+
+		var headers = {
+			'Content-Type' : 'application/json'
+		};
+
+        var body = {
+            'url': 'http://aditechsolutions.com/nitesh/artifacia/uploads/1.jpg',
+            'category': 'Beach',
+            'num': 4,
+            'username': 'Bqfg3nIg'
+        }
+
+		var options = {
+			url: baseUrl,
+			headers: headers,
+			method: 'POST',
+            body: body,
+			json: true,
+			rejectUnauthorized: false
+		};
+
+		request(options, function (error, response, body) {
+            if (error) {
+                res.send(error);
+                // res.send('an error occured');
+            }
+			// console.log(response);
+            res.send(response.body.result); 
+
+		});
+});
 
 router.get('/:prod_id', function (req, res) {
 
@@ -31,8 +71,8 @@ router.get('/:prod_id', function (req, res) {
         res.json(result);
     });
 
-
 });
+
 
 app.use(function (req, res, next) {
 

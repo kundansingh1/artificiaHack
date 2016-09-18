@@ -30,8 +30,57 @@ $(document).ready(function () {
                 return true;
             }
         });
-
     });
+
+    $("#fileUpload").submit(function (event) {
+
+        $.ajax({
+            type: 'GET',
+            url: 'http://localhost:4040/api/fileSearch',
+            async: false,
+            success: function (data) {
+                var requestData = data.toString();
+                console.log(requestData);
+                $.ajax({
+                    type: 'GET',
+                    url: 'http://aditechsolutions.com/nitesh/artifacia/GetRecomendations.php?ids=' + requestData,
+                    async: false,
+                    success: function (data) {
+                        console.log(data);
+
+                        for (var i = 0; i < data.length; i++) {
+                            var prod_id = data[i].id;
+                            var prod_name = data[i].prod_name;
+                            var price = data[i].price;
+                            var url = data[i].url;
+                            var location = data[i].location;
+
+                            var appendData = '<div class="col-xss-12 col-xs-6 col-sm-4 col-md-3 place" prod_id="' + prod_id + '">\
+                                        <div class="top-destination-item">\
+                                            <a>\
+                                                <div class="image">\
+                                                    <img src="'+ url + '" alt="Top Destinations">\
+                                                </div>\
+                                                <div class="content">\
+                                                    <div class="row gap-10">\
+                                                        <div class="col-xs-7 place">\
+                                                            <h4>' + prod_name + '</h4>\
+                                                            <p>'+ location + '</p>\
+                                                        </div>\
+                                                    </div>\
+                                                </div>\
+                                            </a>\
+                                        </div>\
+                                    </div>';
+                            $("#apiResults .gap-20").append(appendData);
+                        }
+                    }
+                });
+            }
+        });
+
+    })
+
 }); // document.ready();
 
 function searchServer(obj) {
