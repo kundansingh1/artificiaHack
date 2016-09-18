@@ -1,4 +1,5 @@
 "use strict";
+
 var client = require("artifacia");
 var constants = require('./constants.js');
 
