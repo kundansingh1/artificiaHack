@@ -13,4 +13,5 @@ client.artifacia(api_key);
 var sample_prod_id = 2;
 var num = 4;
 var filters = { 'category': 1, 'pattern': 1 };
-client.get_visual_recommendation(sample_prod_id, num, filters, function (result) { console.log(result) });
+
+client.get_visual_recommendation(sample_prod_id, num, filters, function (result) { console.log(1) });
