@@ -92,7 +92,7 @@ a.navbar-brand {
 }
 
 .navbar-default .navbar-brand:hover {
-    color: #D60D45;
+    color: white;
 }
 
 .colored-navbar-brand .navbar-default .navbar-brand {
@@ -6240,8 +6240,6 @@ ul.dashboard-menu-list li a > span {
     padding-left: 4px;
 }
 
-
-}
 ul.dashboard-menu-list li ul li a {
     border-bottom: 1px solid rgba(255, 255, 255, 0.35);
 }
