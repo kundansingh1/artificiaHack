@@ -1,0 +1,14 @@
+{
+  "name": "artifacia-hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kundan SIngh",
+  "license": "ISC",
+  "dependencies": {
+    "artifacia": "^0.1.5"
+  }
+}

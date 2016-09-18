@@ -1,0 +1,907 @@
+{
+    "features": [
+        "vr"
+    ],
+    "details": [
+        {
+            "prodid": 1,
+            "prod_name": "BoraBora",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/bora-bora-Aerial-1024x682.jpg",
+            "location": "French Polynesia",
+            "category": "Beach",
+            "price": 947,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 2,
+            "prod_name": "RiodeJaneiro",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/rio-de-janiero-ft.jpg",
+            "location": "Brazil",
+            "category": "Hills",
+            "price": 738,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 3,
+            "prod_name": "Budapest",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/Budapest_by_armene.jpg",
+            "location": "Budapest",
+            "category": "Desert",
+            "price": 661,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 4,
+            "prod_name": "RegistanSquare",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/07/Registan-Square22.jpg",
+            "location": "Uzbekistan",
+            "category": "Rain Forest",
+            "price": 929,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 5,
+            "prod_name": "Patagonia",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/patagonia.jpg",
+            "location": "South America",
+            "category": "Beach",
+            "price": 829,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 6,
+            "prod_name": "Beijing",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/china___beijing_NCPA.jpg",
+            "location": "China",
+            "category": "Hills",
+            "price": 747,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 7,
+            "prod_name": "IsleofMan",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/isle-of-man-sunset-1024x688.jpg",
+            "location": "Isle of Man",
+            "category": "Desert",
+            "price": 658,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 8,
+            "prod_name": "VancouverBC",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Vancouver-BC-1.jpg",
+            "location": "Canada",
+            "category": "Rain Forest",
+            "price": 873,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 9,
+            "prod_name": "Antibes",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/antibes222.jpg",
+            "location": "France",
+            "category": "Beach",
+            "price": 818,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 10,
+            "prod_name": "Krabi",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/07/centara_beach_resort_and_villas_krabi_by_xcrusader20-d4q8fb2-1024x682.jpg",
+            "location": "Thailand",
+            "category": "Hills",
+            "price": 982,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 11,
+            "prod_name": "Teotihuacan",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/teotihuacan_platforms_by_karikaiyuk-d50t7ms.jpg",
+            "location": "Mexico",
+            "category": "Desert",
+            "price": 813,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 12,
+            "prod_name": "Cartagena",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/Historic_Cartagena___9_by_etamnanki-1024x768.jpg",
+            "location": "Colombia",
+            "category": "Rain Forest",
+            "price": 522,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 13,
+            "prod_name": "Hue",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/hue-city-vietnam.jpg",
+            "location": "Vietnam",
+            "category": "Beach",
+            "price": 698,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 14,
+            "prod_name": "Copenhagen",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/07/copenhagen_canal_at_night_by_natashakineva-d4ek3x5-1024x678.jpg",
+            "location": "Denmark",
+            "category": "Hills",
+            "price": 541,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 15,
+            "prod_name": "Tikal",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/07/Tikal_by_rubi28.jpg",
+            "location": "Guatemala",
+            "category": "Desert",
+            "price": 917,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 16,
+            "prod_name": "The Isle of Wight",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/isle-of-man-sunset-1024x688.jpg",
+            "location": "England",
+            "category": "Rain Forest",
+            "price": 600,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 17,
+            "prod_name": "Tuscany",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/tuscany22.jpg",
+            "location": "Italy",
+            "category": "Beach",
+            "price": 549,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 18,
+            "prod_name": "Buenos Aires",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Buenos-Aires-1-1024x768.jpg",
+            "location": "Argentina",
+            "category": "Hills",
+            "price": 612,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 19,
+            "prod_name": "Dubrovnik",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/07/dubrovnik_i____by_roblfc1892-d5rnrlv.jpg",
+            "location": "Croatia",
+            "category": "Desert",
+            "price": 665,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 20,
+            "prod_name": "Sydney",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/08/sydney-harbour-bridge-nightscape.jpg",
+            "location": "Australia",
+            "category": "Rain Forest",
+            "price": 846,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 21,
+            "prod_name": "The Potala Palace",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/potala-palace.jpg",
+            "location": "China",
+            "category": "Beach",
+            "price": 743,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 22,
+            "prod_name": "Tasmania",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/07/Stanley__Tasmania_by_alexwise.jpg",
+            "location": "Australia",
+            "category": "Hills",
+            "price": 749,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 23,
+            "prod_name": "Bermuda",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Bermuda22-1024x576.jpg",
+            "location": "Bermuda",
+            "category": "Desert",
+            "price": 748,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 24,
+            "prod_name": "London",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/07/badass_london_sundown_by_marcoribbe_de-d6bmncc-1024x682.jpg",
+            "location": "Britain",
+            "category": "Rain Forest",
+            "price": 913,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 25,
+            "prod_name": "Reykjavik",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/07/ICELAND-Reykjavik_Northern_Lights-1024x659.jpg",
+            "location": "Iceland",
+            "category": "Beach",
+            "price": 890,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 26,
+            "prod_name": "Barbados",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/toy-barbados-yacht-club.jpg",
+            "location": "Caribbean",
+            "category": "Hills",
+            "price": 523,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 27,
+            "prod_name": "Guilin",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/Guilin22.jpg",
+            "location": "China",
+            "category": "Desert",
+            "price": 613,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 28,
+            "prod_name": "Tallinn",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/Tallinn-old-new.jpg",
+            "location": "Estonia",
+            "category": "Rain Forest",
+            "price": 943,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 29,
+            "prod_name": "Machu Picchu",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/machu_picchu-panarama.jpg",
+            "location": "Peru",
+            "category": "Beach",
+            "price": 686,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 30,
+            "prod_name": "Salar de Uyuni",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Salar-De-Uyuni.jpg",
+            "location": "Bolivia",
+            "category": "Hills",
+            "price": 714,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 31,
+            "prod_name": "Niagara Falls",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/niagara-falls-sunset-1024x670.jpg",
+            "location": "canada",
+            "category": "Desert",
+            "price": 896,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 32,
+            "prod_name": "Santorini",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/santorini_sunset-1024x671.jpg",
+            "location": "Santorini",
+            "category": "Rain Forest",
+            "price": 893,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 33,
+            "prod_name": "Mykonos",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/Mykonos_by_Elena_Elendim.jpg",
+            "location": "Greece",
+            "category": "Beach",
+            "price": 640,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 34,
+            "prod_name": "Las Vegas",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/Vegas_by_Deere.jpg",
+            "location": "Nevada",
+            "category": "Hills",
+            "price": 729,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 35,
+            "prod_name": "The Taj Mahal in Agra",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/Taj_Mahal_Morning.jpg",
+            "location": "India",
+            "category": "Desert",
+            "price": 520,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 36,
+            "prod_name": "Seychelles",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/sunrise_in_seychelles_by_navvyblue-d5icc5j.jpg",
+            "location": "Africa",
+            "category": "Rain Forest",
+            "price": 706,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 37,
+            "prod_name": "Hong Kong",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/Hong-Kong-Night_1920x1080.jpg",
+            "location": "China",
+            "category": "Beach",
+            "price": 534,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 38,
+            "prod_name": "Dubai",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/Dubai2.jpg",
+            "location": "UAE",
+            "category": "Hills",
+            "price": 806,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 39,
+            "prod_name": "Great Wall of China",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Great-Wall-1024x640.jpeg",
+            "location": "China",
+            "category": "Desert",
+            "price": 705,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 40,
+            "prod_name": "Pyramids of Giza",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/Great-Pyramid-of-Giza-1024x640.jpg",
+            "location": "Egypt",
+            "category": "Rain Forest",
+            "price": 600,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 41,
+            "prod_name": "Red Square/Moscow",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/07/Red_Square_Moscow_Russia.jpg",
+            "location": "Russia",
+            "category": "Beach",
+            "price": 532,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 42,
+            "prod_name": "Stonehenge in Wiltshire",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Stonehedge-1024x756.jpg",
+            "location": "England",
+            "category": "Hills",
+            "price": 834,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 43,
+            "prod_name": "Shanghai",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Summer-Sky-in-Shanghai-1152x768-1024x680.jpg",
+            "location": "China",
+            "category": "Desert",
+            "price": 521,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 44,
+            "prod_name": "Angkor Archaeological Park",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/angkor-archaeological-park-complex.jpg",
+            "location": "India",
+            "category": "Rain Forest",
+            "price": 631,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 45,
+            "prod_name": "Ayers Rock",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/ayers-rock-at-end-of-rainbow-1024x729.jpg",
+            "location": "Australia",
+            "category": "Beach",
+            "price": 965,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 46,
+            "prod_name": "Chichen Itza",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/chichen-itza.jpg",
+            "location": "Mexico",
+            "category": "Hills",
+            "price": 943,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 47,
+            "prod_name": "New York City",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/NYC-1024x640.jpg",
+            "location": "USA",
+            "category": "Desert",
+            "price": 531,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 48,
+            "prod_name": "Washington D.C.",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/07/washington-dc-v3-1024x768.jpg",
+            "location": "USA",
+            "category": "Rain Forest",
+            "price": 933,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 49,
+            "prod_name": "Tokyo",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Tokyo.jpg",
+            "location": "Japan",
+            "category": "Beach",
+            "price": 555,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 50,
+            "prod_name": "Mumbai",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/Pagoda_at_Mumbai_.jpg",
+            "location": "India",
+            "category": "Hills",
+            "price": 542,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 51,
+            "prod_name": "Jeju Island",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/Jeju-Island-Magma-Sea.jpg",
+            "location": "South Korea",
+            "category": "Desert",
+            "price": 869,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 52,
+            "prod_name": "Berlin",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/berlin.jpg",
+            "location": "Germany",
+            "category": "Rain Forest",
+            "price": 786,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 53,
+            "prod_name": "Edinburgh",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/edinburgh_by_metallimark-d4jkrln.jpg",
+            "location": "Scotland",
+            "category": "Beach",
+            "price": 671,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 54,
+            "prod_name": "Easter Island",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Easter-Island-1024x682.jpg",
+            "location": "Polynesia",
+            "category": "Hills",
+            "price": 524,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 55,
+            "prod_name": "Maldive Islands",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Maldive-Island.jpg",
+            "location": "Maldives",
+            "category": "Desert",
+            "price": 516,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 56,
+            "prod_name": "Petra",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Petra-1024x683.jpg",
+            "location": "Jordan",
+            "category": "Rain Forest",
+            "price": 907,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 57,
+            "prod_name": "Paris",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/paris-edited.jpg",
+            "location": "France",
+            "category": "Beach",
+            "price": 942,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 58,
+            "prod_name": "Grand Canyon",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/grand-canyon-feature-pic.jpg",
+            "location": "Arizona, USA",
+            "category": "Hills",
+            "price": 933,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 59,
+            "prod_name": "Rome",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Rome-1024x600.jpg",
+            "location": "Italy",
+            "category": "Desert",
+            "price": 925,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 60,
+            "prod_name": "Vatican City",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/Vatican-City-1024x575.jpg",
+            "location": "Italy",
+            "category": "Rain Forest",
+            "price": 911,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 61,
+            "prod_name": "Mexico City",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Mexico-City-1024x640.jpg",
+            "location": "Mexico",
+            "category": "Beach",
+            "price": 773,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 62,
+            "prod_name": "Amritsar",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Golden_Temple_India.jpg",
+            "location": "India",
+            "category": "Hills",
+            "price": 744,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 63,
+            "prod_name": "Jerusalem",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Jerusalem-1024x576.jpg",
+            "location": "Israel",
+            "category": "Desert",
+            "price": 830,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 64,
+            "prod_name": "Dead Sea",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/kempinski-hotel-ishtar-dead-sea-dead-sea-jordan-109837-4.jpg",
+            "location": "Jordan",
+            "category": "Rain Forest",
+            "price": 743,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 65,
+            "prod_name": "Darwin City",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/Darwin-City2-1024x576.jpg",
+            "location": "Australia",
+            "category": "Beach",
+            "price": 628,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 66,
+            "prod_name": "Svalbard",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/Svalbard-Islands.jpg",
+            "location": "Norway",
+            "category": "Hills",
+            "price": 793,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 67,
+            "prod_name": "Walt Disney World",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/disney-world.jpg",
+            "location": "Florida, USA",
+            "category": "Desert",
+            "price": 814,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 68,
+            "prod_name": "Eight Hells",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/eight-hells.jpg",
+            "location": "New Jersey, USA",
+            "category": "Rain Forest",
+            "price": 863,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 69,
+            "prod_name": "Los Angeles",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Hollywood-1024x768.jpg",
+            "location": "USA",
+            "category": "Beach",
+            "price": 629,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 70,
+            "prod_name": "Perth",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/Perth-22-1024x576.jpg",
+            "location": "Australia",
+            "category": "Hills",
+            "price": 989,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 71,
+            "prod_name": "Ulan Bator",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Ulaan-Batoor.jpg",
+            "location": "Mongolia",
+            "category": "Desert",
+            "price": 933,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 72,
+            "prod_name": "Ngorongoro Crater and Serengeti National Park in Tanzania",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/good_morning_tanzania_by_amnona-d3g5zkg.jpg",
+            "location": "Tanzania",
+            "category": "Rain Forest",
+            "price": 963,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 73,
+            "prod_name": "Fiji Islands",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/08/FIJI-WATER-HUTS.jpg",
+            "location": "Fiji",
+            "category": "Beach",
+            "price": 952,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 74,
+            "prod_name": "Madagascar",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/Madagascar-Africa.jpg",
+            "location": "Africa",
+            "category": "Hills",
+            "price": 943,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 75,
+            "prod_name": "Great Barrier Reef",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/great_barrier_reef_by_schelly-d6bc8z0.jpg",
+            "location": "Australia",
+            "category": "Desert",
+            "price": 774,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 76,
+            "prod_name": "Mesa Verde",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/Mesa-Verde-National-Park-Cliff-Palace.jpg",
+            "location": "Montezuma",
+            "category": "Rain Forest",
+            "price": 735,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 77,
+            "prod_name": "Pompeii (now Naples)",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/churchill.jpg",
+            "location": "Italy",
+            "category": "Beach",
+            "price": 756,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 78,
+            "prod_name": "Churchill",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/churchill.jpg",
+            "location": "Manitoba",
+            "category": "Hills",
+            "price": 831,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 79,
+            "prod_name": "Antartica",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Antartica.jpg",
+            "location": "Antactica",
+            "category": "Desert",
+            "price": 999,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 80,
+            "prod_name": "Yangtze River",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Yangtze-River-1024x687.jpg",
+            "location": "China",
+            "category": "Rain Forest",
+            "price": 845,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 81,
+            "prod_name": "Athens",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Parthenon.jpg",
+            "location": "Greece",
+            "category": "Beach",
+            "price": 708,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 82,
+            "prod_name": "Mt. Kilimanjaro",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/mt.-kilimar.jpg",
+            "location": "Tanzania",
+            "category": "Hills",
+            "price": 835,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 83,
+            "prod_name": "Venice",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/venice-italy.jpg",
+            "location": "Italy",
+            "category": "Desert",
+            "price": 874,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 84,
+            "prod_name": "Galapagos Islands",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/gala-island-1024x539.jpg",
+            "location": "Ecuador",
+            "category": "Rain Forest",
+            "price": 684,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 85,
+            "prod_name": "Amazon Rainforest",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/yasuni_park_amazon.jpg",
+            "location": "Africa",
+            "category": "Beach",
+            "price": 834,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 86,
+            "prod_name": "Mount (Aoraki) Cook National Park",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/mueller-hut-mt-cook-national-park.jpg",
+            "location": "Newzealand",
+            "category": "Hills",
+            "price": 696,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 87,
+            "prod_name": "Iguazu Falls",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Iguazu-Falls.jpg",
+            "location": "South America",
+            "category": "Desert",
+            "price": 774,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 88,
+            "prod_name": "Pisa",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/leaning-tower-of-pisa-pic-2.jpg",
+            "location": "Italy",
+            "category": "Rain Forest",
+            "price": 925,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 89,
+            "prod_name": "Bali",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/06/temple-in-bali.jpg",
+            "location": "Indonesia",
+            "category": "Beach",
+            "price": 637,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 90,
+            "prod_name": "Lake District",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/07/lake-district-v2.jpg",
+            "location": "United Kingdom",
+            "category": "Hills",
+            "price": 619,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 91,
+            "prod_name": "Ibiza",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Ibiza-1024x682.jpg",
+            "location": "Spain",
+            "category": "Desert",
+            "price": 626,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 92,
+            "prod_name": "Seattle",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Seattle-1.jpg",
+            "location": "Washington, United States",
+            "category": "Rain Forest",
+            "price": 719,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 93,
+            "prod_name": "Groom Lake",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/area_51-sign_022-1024x614.jpg",
+            "location": "Nevada, United States",
+            "category": "Beach",
+            "price": 567,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 94,
+            "prod_name": "Stockholm",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/StockholmSwedenCity-Hall.jpg",
+            "location": "Sweden",
+            "category": "Hills",
+            "price": 508,
+            "pattern": "Cruising"
+        },
+        {
+            "prodid": 95,
+            "prod_name": "Atlanta",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/Atlanta2-1024x682.jpg",
+            "location": "Georgia",
+            "category": "Desert",
+            "price": 710,
+            "pattern": "Exploration"
+        },
+        {
+            "prodid": 96,
+            "prod_name": "Singapore",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/Singapore.jpg",
+            "location": "Singapore",
+            "category": "Rain Forest",
+            "price": 537,
+            "pattern": "Pilgrimage"
+        },
+        {
+            "prodid": 97,
+            "prod_name": "Waikiki",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/WaikikiAerial.jpg",
+            "location": "Hawaii",
+            "category": "Beach",
+            "price": 915,
+            "pattern": "Honeymoon"
+        },
+        {
+            "prodid": 98,
+            "prod_name": "Goa",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/09/Basilica_of_Bom_Jesus_-_Old_Goa.jpg",
+            "location": "India",
+            "category": "Hills",
+            "price": 914,
+            "pattern": "Adventure"
+        },
+        {
+            "prodid": 99,
+            "prod_name": "Angel Falls",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/angel-falls.jpg",
+            "location": "Venezuela",
+            "category": "Desert",
+            "price": 626,
+            "pattern": "Nature"
+        },
+        {
+            "prodid": 100,
+            "prod_name": "Toronto",
+            "url": "http://vacationadvice101.com/wp-content/uploads/2013/04/toronto-1024x768.jpeg",
+            "location": "Canda",
+            "category": "Rain Forest",
+            "price": 588,
+            "pattern": "Cruising"
+        }
+    ]
+}
